@@ -3,8 +3,11 @@
 
 <p>I've been studying computer science for more of my life than I've not been and I enjoy it just as much as I did when I started.</p>
 
-<h2>Current Goals 🎯</h3>
-<p> On a journey to find practical application for the things I know and enjoy doing, which includes job hunting and project hunting.</p>
+<h2>Current Goals 🎯</h2>
+<p> On a journey to find practical application for the things I know and enjoy doing, which includes 
+<ul><li>job hunting</li><li>project hunting.</li></ul>
+    
+</p>
 
 <h2 align="left">Connect with me 🛫</h3>
 <p align="left">
@@ -26,3 +29,10 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=unknwnlistener&show_icons=true&locale=en" alt="unknwnlistener" /></p>
+
+<h2>Currently Working On 🛠</h2>
+<p>Some projects I'm trying to improve right now are</p>
+
+<img src="/assets/wa-reader.png" alt="Whatsapp Reader app preview" height="40"/>
+<img src="/assets/portfolio-web.jpg" alt="Portfolio website preview" height="40"/>
+<img src="/assets/chuck-jokes.png" alt="Chuck Norris Joke Generator preview" height="40"/>
