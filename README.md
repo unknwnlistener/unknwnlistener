@@ -33,6 +33,6 @@
 <h2>Currently Working On 🛠</h2>
 <p>Some projects I'm trying to improve right now are</p>
 
-<img src="/assets/wa-reader.png" alt="Whatsapp Reader app preview" height="40"/>
-<img src="/assets/portfolio-web.jpg" alt="Portfolio website preview" height="40"/>
-<img src="/assets/chuck-jokes.png" alt="Chuck Norris Joke Generator preview" height="40"/>
+<img src="wa-reader.png" alt="Whatsapp Reader app preview" height="40"/>
+<img src="portfolio-web.jpg" alt="Portfolio website preview" height="40"/>
+<img src="chuck-jokes.png" alt="Chuck Norris Joke Generator preview" height="40"/>
