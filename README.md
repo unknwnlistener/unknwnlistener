@@ -1,11 +1,11 @@
-<h1 align="center">Hello! My name is Nischal</h1>
+<img src="banner.png" alt="Hello! My name is Nischal" />
 <h3 align="center">Curiosity killed the cat. It's a good thing I'm not a cat.</h3>
 
 <p>I've been studying computer science for more of my life than I've not been and I enjoy it just as much as I did when I started.</p>
 
 <h2>Current Goals 🎯</h2>
 <p> On a journey to find practical application for the things I know and enjoy doing, which includes 
-<ul><li>job hunting</li><li>project hunting.</li></ul>
+<ul><li>Job hunting</li><li>Project hunting.</li></ul>
     
 </p>
 
@@ -33,7 +33,7 @@
 <h2>Currently Working On 🛠</h2>
 <p>Some projects I'm trying to improve right now are</p>
 
-WhatsApp Reader | Portfolio Website | Chuck Norris Joke Generator
+Portfolio Website | WhatsApp Reader | Chuck Norris Joke Generator
 ----------------|-------------------|----------------------------
 <img src="portfolio-web.jpg" alt="Portfolio website preview"  height="200"/> | <img src="wa-reader.png" alt="Whatsapp Reader app preview"  height="200"/> | <img src="chuck-jokes.png" alt="Chuck Norris Joke Generator preview" height="200"/>
 <a href="https://github.com/unknwnlistener/unknwnlistener.github.io">Link to repository</a> | <a href="https://github.com/unknwnlistener/whatsapp-reader">Link to repository</a> | <a href="https://github.com/unknwnlistener/chuck-norris-joke-generator">Link to repository</a>
