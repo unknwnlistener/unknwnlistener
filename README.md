@@ -26,14 +26,12 @@
 <img src="https://img.shields.io/static/v1?logo=git&label=&logoColor=white&message=Git&color=red&style=for-the-badge" alt="git" height="30"/>
   </p>
 
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=unknwnlistener&show_icons=true&locale=en" alt="unknwnlistener" /></p>
 
 <h2>Currently Working On 🛠</h2>
 <p>Some projects I'm trying to improve right now are</p>
 
-Portfolio Website | WhatsApp Reader | Chuck Norris Joke Generator
-----------------|-------------------|----------------------------
-<img src="portfolio-web.jpg" alt="Portfolio website preview"  height="200"/> | <img src="wa-reader.png" alt="Whatsapp Reader app preview"  height="200"/> | <img src="chuck-jokes.png" alt="Chuck Norris Joke Generator preview" height="200"/>
-<a href="https://github.com/unknwnlistener/unknwnlistener.github.io">Link to repository</a> | <a href="https://github.com/unknwnlistener/whatsapp-reader">Link to repository</a> | <a href="https://github.com/unknwnlistener/chuck-norris-joke-generator">Link to repository</a>
+| Portfolio Website                                                                                       | WhatsApp Reader                                                                                       | Chuck Norris Joke Generator                                                                                    | Photo Gallery                                                                                                 |
+| ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| <img src="portfolio-web.jpg" alt="Portfolio website preview"  height="200" style="object-fit: cover;"/> | <img src="wa-reader.png" alt="Whatsapp Reader app preview"  height="200" style="object-fit: cover;"/> | <img src="chuck-jokes.png" alt="Chuck Norris Joke Generator preview" height="200" style="object-fit: cover;"/> | <img src="photo-gallery.png" alt="Preview of photo gallery website" height="200" style="object-fit: cover;"/> |
+| <a href="https://github.com/unknwnlistener/unknwnlistener.github.io">Repo</a>                           | <a href="https://github.com/unknwnlistener/whatsapp-reader">Repo</a>                                  | <a href="https://github.com/unknwnlistener/chuck-norris-joke-generator">Repo</a>                               | <a href="https://github.com/unknwnlistener/photo-gallery">Repo</a>                                            |
