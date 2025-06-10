@@ -5,7 +5,7 @@
 
 <h2>Current Goals 🎯</h2>
 <p> On a journey to find practical application for the things I know and enjoy doing, which includes 
-<ul><li>Job hunting</li><li>Project hunting.</li></ul>
+<ul><li>Finding a job</li><li>Looking for new projects</li></ul>
     
 </p>
 
@@ -15,15 +15,16 @@
 <a href="https://dev.to/unknwnlistener" target="blank"><img align="center" src="https://img.shields.io/static/v1?logo=dev-dot-to&label=&logoColor=&message=DEV.to&color=black&style=for-the-badge" alt="unknwnlistener DEV.to" height="30"/></a>
 
 </p>
-<h2 align="left">Languages and Tools I've Worked With 📚</h3>
+<h2 align="left">Languages and Tools I've Worked With 💻</h3>
 <p>
-<img src="https://img.shields.io/static/v1?logo=html5&label=&logoColor=white&message=HTML&color=red&style=for-the-badge" alt="html5" height="30"/>
-<img src="https://img.shields.io/static/v1?logo=css3&label=&logoColor=white&message=CSS&color=blue&style=for-the-badge" alt="css" height="30"/>
-<img src="https://img.shields.io/static/v1?logo=javascript&label=&logoColor=white&message=JS&color=orange&style=for-the-badge" alt="js" height="30"/>
-<img src="https://img.shields.io/static/v1?logo=react&label=&logoColor=white&message=React&color=blue&style=for-the-badge" alt="react" height="30"/>
-<img src="https://img.shields.io/static/v1?logo=java&label=&logoColor=white&message=Java&color=red&style=for-the-badge" alt="java" height="30"/>
-<img src="https://img.shields.io/static/v1?logo=node-dot-js&label=&logoColor=white&message=NodeJS&color=brightgreenblack&style=for-the-badge" alt="node-js" height="30"/>
-<img src="https://img.shields.io/static/v1?logo=git&label=&logoColor=white&message=Git&color=red&style=for-the-badge" alt="git" height="30"/>
+<img src="https://img.shields.io/static/v1?logo=react&label=&logoColor=&message=React&color=black&style=for-the-badge" alt="react" height="30"/>
+<img src="https://img.shields.io/static/v1?logo=typescript&label=&logoColor=&message=TypeScript&color=black&style=for-the-badge" alt="ts" height="30"/>
+<img src="https://img.shields.io/static/v1?logo=tailwind-css&label=&logoColor=&message=Tailwind&color=black&style=for-the-badge" alt="tailwindcss" height="30"/>
+<img src="https://img.shields.io/static/v1?logo=javascript&label=&logoColor=&message=JavaScript&color=black&style=for-the-badge" alt="js" height="30"/>
+<img src="https://img.shields.io/static/v1?logo=html5&label=&logoColor=&message=HTML&color=black&style=for-the-badge" alt="html5" height="30"/>
+<img src="https://img.shields.io/static/v1?logo=css&label=&logoColor=&message=CSS&color=black&style=for-the-badge" alt="css" height="30"/>
+<img src="https://img.shields.io/static/v1?logo=laravel&label=&logoColor=&message=Laravel&color=black&style=for-the-badge" alt="laravel" height="30"/>
+<img src="https://img.shields.io/static/v1?logo=cypress&label=&logoColor=&message=Cypress&color=black&style=for-the-badge" alt="cypress" height="30"/>
   </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=unknwnlistener&show_icons=true&locale=en" alt="unknwnlistener" /></p>
